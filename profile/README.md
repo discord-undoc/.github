@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./../assets/UNDocNoBG.png" alt="Discord Unofficial Documentation" width="250px">
+    <img src="https://github.com/discord-undoc/.github/blob/master/assets/UNDocNoBG.png?raw=true" alt="Discord Unofficial Documentation" width="250px">
 <p>
 
 # Unofficial Discord Documentation
