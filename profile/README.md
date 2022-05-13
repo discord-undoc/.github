@@ -6,4 +6,4 @@
 
 The Discord API is big.\
 Bigger than what you see in the official API docs, at least.\
-The purpose of this project is to cover all of it, from more in - depth documentation to document entire new areas and endpoints, to make your understanding of the API and bot development better.
+The purpose of this project is to cover all of it, from more in-depth documentation, to document entire new areas and endpoints, and to better your understanding of the API and bot development.
